@@ -1,0 +1,5 @@
+Daftar kontribusi: 
+ - [Rima ] Saya sudah membuat file readme.md, kemudian saya mengajak kolaborasi kepada teman saya,lalu pada file yang saya buat tersebut suda saya isi dengan nama saya. 
+sini.
+ - [ ] Anggota 2 menambahkan satu baris teks di 
+sini.
