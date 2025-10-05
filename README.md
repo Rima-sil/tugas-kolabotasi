@@ -8,4 +8,4 @@ perubahan pada file data.txt.
  
 ## Anggota Kelompok 
 - Rima Silvia Melani   
-- Nama Anggota 2
+- Nura Ihda Muharomah
